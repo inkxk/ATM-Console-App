@@ -1,0 +1,15 @@
+/Users/inkxk_/Algorithm/ATM Console App (C#)/bin/Debug/net7.0/ATM Console App (C#)
+/Users/inkxk_/Algorithm/ATM Console App (C#)/bin/Debug/net7.0/ATM Console App (C#).deps.json
+/Users/inkxk_/Algorithm/ATM Console App (C#)/bin/Debug/net7.0/ATM Console App (C#).runtimeconfig.json
+/Users/inkxk_/Algorithm/ATM Console App (C#)/bin/Debug/net7.0/ATM Console App (C#).dll
+/Users/inkxk_/Algorithm/ATM Console App (C#)/bin/Debug/net7.0/ATM Console App (C#).pdb
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).csproj.AssemblyReference.cache
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).GeneratedMSBuildEditorConfig.editorconfig
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).AssemblyInfoInputs.cache
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).AssemblyInfo.cs
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).csproj.CoreCompileInputs.cache
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).dll
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/refint/ATM Console App (C#).dll
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).pdb
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ATM Console App (C#).genruntimeconfig.cache
+/Users/inkxk_/Algorithm/ATM Console App (C#)/obj/Debug/net7.0/ref/ATM Console App (C#).dll
